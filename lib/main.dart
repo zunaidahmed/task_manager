@@ -5,8 +5,3 @@ void main() {
   runApp(const TaskManager());
 }
 
-
-/// TODO: Assignment
-/// 1. Forgot password ui and api flow
-/// 2. Progress task api integration
-/// 3. Cancelled task api integration
